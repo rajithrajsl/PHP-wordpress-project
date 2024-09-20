@@ -81,7 +81,7 @@ $table_prefix = 'wp_';
  */
 define( 'WP_DEBUG', false );
 
-/* Add any custom values between this line and the "stop editing" line. */
+/* Add any custom values between this line and the "stop editing" line - this is test by rajith. */
 
 
 
